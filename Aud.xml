@@ -1,5 +1,4 @@
-<VAST 
-	>
+<VAST>
 	<Ad id="20007" sequence="1" conditionalAd="false" adType="audio">
 		<InLine>
 			<AdSystem version="4.1">iabtechlab</AdSystem>
