@@ -1,4 +1,4 @@
-{"Genre":[{
+{"Genre":{
 	"Hindi": 
 		{
 			"Song": [
@@ -108,7 +108,7 @@
 					"name": "abc",
 					"videoId": "xyz"
 				}
-			]
+			
 		}
 	}	]
 	
