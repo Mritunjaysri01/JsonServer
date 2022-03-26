@@ -1,5 +1,5 @@
 {"Genre":[{
-	   "Hindi": [
+	   "Hindi": 
 		{
 			"Song": [
 				{
@@ -35,9 +35,9 @@
 					"videoId": "xyz"
 				}
 			]
-		}],
+		},
 		"English": 
-		[{
+		{
 			"Song": [
 				{
 					"name": "abc",
@@ -72,9 +72,9 @@
 					"videoId": "xyz"
 				}
 			]
-		}],
+		},
 		"Punjabi": 
-		[{
+		{
 			"Song": [
 				{
 					"name": "abc",
@@ -109,9 +109,9 @@
 					"videoId": "xyz"
 				}
 			]
-		}],
+		},
 		"HindiClassics": 
-		[{
+		{
 			"Song": [
 				{
 					"name": "abc",
@@ -146,7 +146,7 @@
 					"videoId": "xyz"
 				}
 			]
-		}]
+		}
 	}	]
 	
 }
