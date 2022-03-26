@@ -1,152 +1,72 @@
-{"Genre":{
-	"Hindi": 
+{
+	"KaraokeDB": [
 		{
+			"Genre": "Hindi",
 			"Song": [
 				{
 					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				},
 				{
 					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				},
 				{
 					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				}
 			]
 		},
-		"English": 
 		{
+			"Genre": "English",
 			"Song": [
 				{
 					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				},
 				{
 					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				},
 				{
 					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				}
 			]
 		},
-		"Punjabi": 
 		{
+			"Genre": "Punjabi",
 			"Song": [
 				{
 					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				},
 				{
 					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				},
 				{
 					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				}
 			]
 		},
-		"HindiClassics": 
 		{
+			"Genre": "Classic",
 			"Song": [
 				{
 					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				},
 				{
 					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				},
 				{
 					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
-				},
-				{
-					"name": "abc",
-					"videoId": "xyz"
+					"videoUrl": "xyz"
 				}
 			]
 		}
-	}	
-	
+	]
 }
