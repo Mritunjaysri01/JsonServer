@@ -1,0 +1,50 @@
+{
+    "InterviewQuestionair": [
+        {
+            "Type": "HR Round",
+            "Question": [
+                {
+                    "Ques": "This is Question",
+                    "Explaination": "This is Answer",
+                    "Hint": "This is Hint",
+                    "QuestionAudio": "This is Url"
+                },
+                {
+                    "Ques": "This is Question",
+                    "Explaination": "This is Answer",
+                    "Hint": "This is Hint",
+                    "QuestionAudio": "This is Url"
+                },
+                {
+                    "Ques": "This is Question",
+                    "Explaination": "This is Answer",
+                    "Hint": "This is Hint",
+                    "QuestionAudio": "This is Url"
+                },
+                {
+                    "Ques": "This is Question",
+                    "Explaination": "This is Answer",
+                    "Hint": "This is Hint",
+                    "QuestionAudio": "This is Url"
+                },
+                {
+                    "Ques": "This is Question",
+                    "Explaination": "This is Answer",
+                    "Hint": "This is Hint",
+                    "QuestionAudio": "This is Url"
+                }
+            ]
+        },
+        {
+            "Type": "Technical Round",
+            "Question": [
+                {
+                    "Ques": "This is Question",
+                    "Explaination": "This is Answer",
+                    "Hint": "This is Hint",
+                    "QuestionAudio": "This is Url"
+                }
+            ]
+        }
+    ]
+}
