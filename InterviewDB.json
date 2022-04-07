@@ -4,16 +4,16 @@
             "Type": "HR Round",
             "Question": [
                 {
-                    "Ques": "This is Question",
-                    "Explaination": "This is Answer",
-                    "Hint": "This is Hint",
-                    "QuestionAudio": "This is Url"
+                    "Ques": "Why did you decide to apply to this role?",
+                    "Explaination": "This question aims to evaluate the candidate’s interest in the role. Are they really motivated to get hired for this specific job or do they just mass-apply to every job ad under the sun? Candidates should show that this application was a conscious decision on their part.",
+                    "Hint": "I have been following your company’s successes for some time now and I know you have a great software development team. I was thinking that this would be the best environment for me to apply the skills I acquired during my internship and Master’s degree. So, I checked your careers page regularly and when I saw this job ad, I thought it was finally time to try my hand. I have experience in web development and I’m really interested in the projects you’re mentioning in the job ad – in fact, one of them was the subject of my thesis. I really think I’m a good fit for the job and can grow even more in your workplace.",
+                    "QuestionAudio": "https://noveltyvr.com/QuestionAudio/Why%20did%20you%20decide%20to%20apply%20to%20this%20role.mp3"
                 },
                 {
-                    "Ques": "This is Question",
+                    "Ques": " why This is Question",
                     "Explaination": "This is Answer",
                     "Hint": "This is Hint",
-                    "QuestionAudio": "This is Url"
+                    "QuestionAudio": "https://noveltyvr.com/QuestionAudio/Why%20should%20we%20hire%20you.mp3"
                 },
                 {
                     "Ques": "This is Question",
