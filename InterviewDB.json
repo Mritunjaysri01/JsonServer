@@ -10,28 +10,28 @@
                     "QuestionAudio": "https://noveltyvr.com/QuestionAudio/Why%20did%20you%20decide%20to%20apply%20to%20this%20role.mp3"
                 },
                 {
-                    "Ques": " why This is new Question",
-                    "Explaination": "This is  new Answer",
-                    "Hint": "This is lol Hint",
+                    "Ques": "What experience do you have that would be relevant to this role?",
+                    "Explaination": "With this question, recruiters can assess whether candidates have truly understood the role’s requirements and whether they think they can do the job. The best candidates will readily explain how their previous experience relates to the job ad.",
+                    "Hint": "In your job ad, you mention you want someone with talent in inbound sales. I was actually a sales associate at a local store in my area for about three years. During this time, I learned how to approach customers and ask them the right questions to understand what they need. I learned to handle difficult customers and solve crises. I can also be persistent without being pushy, which I think is a great asset for any salesperson.",
+                    "QuestionAudio": "https://noveltyvr.com/QuestionAudio/What%20experience%20do%20you%20have%20that%20would%20be%20relevant%20to%20this%20role.mp3"
+                },
+                {
+                    "Ques": "Describe the workplace where you’ll be most happy and productive.",
+                    "Explaination": "This can take other forms, too, such as “What can we do to keep you happy if you were hired?” or “What do you like about your current job that you’d like to find here as well?” These are examples of culture fit interview questions that aim to assess the candidate’s suitability as an employee of the company. Usually, there’s no right or wrong answer. It all depends on whether each candidate is a fit for each individual company.",
+                    "Hint": "I like workplaces that emphasize both autonomy and teamwork. I like collaborating with others and exchanging ideas, but I also want to have flexibility to work uninterrupted for some time. Also, I value the absence of restrictions, such as a casual dress code unless I’m meeting with customers or partners.",
+                    "QuestionAudio": "https://noveltyvr.com/QuestionAudio/Describe%20the%20workplace%20where%20you%E2%80%99ll%20be%20most%20happy%20and%20productive.mp3"
+                },
+                {
+                    "Ques": "What are your greatest strengths and weaknesses?",
+                    "Explaination": "HR asks this question to get to know more about your characteristics and your suitability for the job. It is also one of the standards and most commonly asked questions.",
+                    "Hint": "I think one of my greatest strengths is that I am a great team player. I am also a self-motivated and quick learning individual. Whatever task that I set to do, I always give my best and complete it diligently well in advance. My weakness would be that I am learning to master people skills while meeting new individuals. I get nervous while talking to new people. I have been working on this for quite a long time and I can say with utmost confidence that I have come a long way.",
+                    "QuestionAudio": "https://noveltyvr.com/QuestionAudio/What%20are%20your%20greatest%20strengths%20and%20weaknesses.mp3"
+                },
+                {
+                    "Ques": " Why should we hire you?",
+                    "Explaination": "The recruiter asks this important question to understand how well you would fit into the position because every hire is a risk to the interviewer in case they turn out to be unfit. Your answer to this question can make or break your interview. Hence, prepare well for this question and make sure to convey to the interviewer why you are the perfect fit for the position.",
+                    "Hint": "I am a self-motivated and very open-minded person who can learn very fast. Looking at the job description and my experience in the field of web development, I am confident that I am very much suitable for this role. I enjoy solving problems and I am a great team player. I also believe that my values are aligned with this company’s values. I think this position will support my interest and also give me interesting and exciting opportunities to contribute to the growth of this organization. I am very much excited about this opportunity",
                     "QuestionAudio": "https://noveltyvr.com/QuestionAudio/Why%20should%20we%20hire%20you.mp3"
-                },
-                {
-                    "Ques": "This is Question",
-                    "Explaination": "This is Answer",
-                    "Hint": "This is Hint",
-                    "QuestionAudio": "This is Url"
-                },
-                {
-                    "Ques": "This is Question",
-                    "Explaination": "This is Answer",
-                    "Hint": "This is Hint",
-                    "QuestionAudio": "This is Url"
-                },
-                {
-                    "Ques": "This is Question",
-                    "Explaination": "This is Answer",
-                    "Hint": "This is Hint",
-                    "QuestionAudio": "This is Url"
                 }
             ]
         },
